@@ -1,4 +1,4 @@
-# PRoot Distro
+ # PRoot Distro
 
 A Bash script wrapper for utility [proot] for easy management of chroot-based
 Linux distribution installations. It does not require root or any special ROM,
